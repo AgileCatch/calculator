@@ -1,8 +1,6 @@
 package com.example.myapplication
 
-
 fun main() {
-
 
     println("첫번째 값을 입력해주세요 : ")
     var num1= readLine()!!.toDouble()
